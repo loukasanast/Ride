@@ -8,6 +8,7 @@ namespace Ride
     class LocationParser : ILocationParser<string>
     {
         private readonly WebClient _client = new WebClient();
+
         public Location ParseLocation(string name)
         {
             var result = new Location(name);
