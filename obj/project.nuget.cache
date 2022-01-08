@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1fYkHUE2twp67FZuz4aqUFVjhFhHXQp0kCWlUUjPg48jw9oXY/BZjbl9R75EWjpaScGm7RkMuuY+eodi+mw5Ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\source\\repos\\Ride\\Ride\\Ride.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

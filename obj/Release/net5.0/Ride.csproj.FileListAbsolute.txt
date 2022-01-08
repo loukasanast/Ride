@@ -1,0 +1,17 @@
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\Ride.exe
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\Ride.deps.json
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\Ride.runtimeconfig.json
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\Ride.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\Ride.dll
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\ref\Ride.dll
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\Ride.pdb
+C:\Users\Lucas\source\repos\Ride\Ride\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.csproj.CopyComplete
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.dll
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\ref\Ride.dll
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.pdb
+C:\Users\Lucas\source\repos\Ride\Ride\obj\Release\net5.0\Ride.genruntimeconfig.cache
