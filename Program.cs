@@ -15,10 +15,7 @@ namespace Ride
 
             if(string.IsNullOrEmpty(tempFromLoc))
             {
-                Console.WriteLine("You entered an invalid value.");
-                Console.WriteLine("Press enter to exit...");
-                Console.ReadKey();
-                Environment.Exit(1);
+                HandleInvalidInput();
             }
 
             Location fromLoc = new LocationParser().ParseLocation(tempFromLoc);
@@ -29,10 +26,7 @@ namespace Ride
 
             if (string.IsNullOrEmpty(tempToLoc))
             {
-                Console.WriteLine("You entered an invalid value.");
-                Console.WriteLine("Press enter to exit...");
-                Console.ReadKey();
-                Environment.Exit(1);
+                HandleInvalidInput();
             }
 
             Location toLoc = new LocationParser().ParseLocation(tempToLoc);
@@ -45,11 +39,7 @@ namespace Ride
             }
             catch(IOException e)
             {
-                Console.WriteLine("An error occured");
-                Console.WriteLine(e.Message);
-                Console.WriteLine("Press enter to exit...");
-                Console.ReadKey();
-                Environment.Exit(1);
+                HandleError(e.Message);
             }
 
             try
@@ -58,11 +48,7 @@ namespace Ride
             }
             catch (Exception e)
             {
-                Console.WriteLine("An error occured.");
-                Console.WriteLine(e.Message);
-                Console.WriteLine("Press enter to exit...");
-                Console.ReadKey();
-                Environment.Exit(1);
+                HandleError(e.Message);
             }
 
             Console.WriteLine("########## Thank you for using this program ##########");
@@ -89,6 +75,23 @@ namespace Ride
                     writer.WriteLine(instructions[i]);
                 }
             }
+        }
+
+        static void HandleError(string message)
+        {
+            Console.WriteLine("An error occured");
+            Console.WriteLine(message);
+            Console.WriteLine("Press enter to exit...");
+            Console.ReadKey();
+            Environment.Exit(1);
+        }
+
+        static void HandleInvalidInput()
+        {
+            Console.WriteLine("You entered an invalid value.");
+            Console.WriteLine("Press enter to exit...");
+            Console.ReadKey();
+            Environment.Exit(1);
         }
     }
 }
