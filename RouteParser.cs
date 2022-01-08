@@ -5,7 +5,7 @@ using System.Net;
 
 namespace Ride
 {
-    class RouteParser
+    class RouteParser : IRouteParser<Location>
     {
         private readonly WebClient _client = new WebClient();
         public Route ParseRoute(Location from, Location to)

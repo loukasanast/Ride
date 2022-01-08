@@ -1,124 +1,65 @@
-Dem Straßenverlauf folgen
-Leicht rechts abbiegen →
-Scharf links abbiegen ←
-Leicht links abbiegen auf B7 ←
-Rechts abbiegen auf E704 →
-Links halten auf Mariou ←
-Leicht links abbiegen auf Mariou, E704 ←
-Dem Straßenverlauf folgen
-Leicht rechts abbiegen auf D.30 →
-Dem Straßenverlauf von LK.01 folgen
-Scharf rechts abbiegen auf LK.04 →
-Im Kreisverkehr Ausfahrt 1 auf Lefke - Güzelyurt Anayolu, D.30 nehmen
-Im Kreisverkehr Ausfahrt 2 auf D.30 nehmen
-Im Kreisverkehr Ausfahrt 2 auf D.30 nehmen
-Im Kreisverkehr Ausfahrt 3 auf Lefkoşa - Güzelyurt Anayolu, D.30 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Lefkoşa - Güzelyurt Anayolu, D.30 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Lefkoşa - Güzelyurt Anayolu, D.30 nehmen
-Im Kreisverkehr Ausfahrt 3 auf Lefkoşa - Güzelyurt Anayolu, D.30 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Lefkoşa - Güzelyurt Anayolu, D.30 nehmen
-Im Kreisverkehr Ausfahrt 1 auf Lefkoşa - Girne Anayolu, D.25 nehmen
-Links halten auf D.25 ←
-Im Kreisverkehr Ausfahrt 3 auf D.10 nehmen
-Im Kreisverkehr Ausfahrt 3 auf Semih Sancar Caddesi, D.10 nehmen
-Im Kreisverkehr Ausfahrt 1 auf Semih Sancar Caddesi, D.10 nehmen
-Leicht links abbiegen auf Semih Sancar Caddesi, D.10 ←
-Im Kreisverkehr Ausfahrt 2 auf Dr. Fazıl Küçük Caddesi nehmen
-Links abbiegen ←
-Rechts abbiegen →
-Rechts abbiegen →
-Links abbiegen ←
-Links abbiegen ←
-Rechts abbiegen →
+Dem Straßenverlauf von Winchester Street folgen
+Links abbiegen auf Lupus Street ←
+Dem Straßenverlauf von Lupus Street, A3213 folgen
+Rechts abbiegen auf Vauxhall Bridge Road, A202 →
+Leicht links abbiegen auf Vauxhall Bridge, A202 ←
+Links halten auf Bridgefoot, A202 ←
+Leicht links abbiegen auf Kennington Lane, A3204 ←
+Leicht links abbiegen auf Kennington Road, A23 ←
+Leicht links abbiegen auf Newington Butts, A3 ←
+Links abbiegen auf Newington Butts, A3 ←
+Links abbiegen auf New Kent Road, A201 ←
+Links abbiegen auf New Kent Road, A201 ←
+Rechts halten auf Bricklayers Arms Flyover, A2 →
+Dem Straßenverlauf von New Cross Road, A2 folgen
+Links abbiegen auf Deptford Bridge, A2 ←
+Links abbiegen auf Deptford Bridge, A2 ←
+Im Kreisverkehr Ausfahrt 2 auf Shooters Hill Road, A2 nehmen
+Im Kreisverkehr Ausfahrt 3 auf Rochester Way Relief Road, A2 nehmen
+Links halten auf Rochester Way Relief Road, A2 ←
+Dem Straßenverlauf von Rochester Way Relief Road, A2 folgen
+Rechts halten auf M2 →
 Links halten ←
-Links abbiegen auf Mersin-Antalya yolu, D400 ←
-Dem Straßenverlauf von Mersin-Antalya Yolu, D400 folgen
-Dem Straßenverlauf von Mersin-Antalya Yolu, D400 folgen
-Rechts halten →
-Im Kreisverkehr Ausfahrt 5 auf Antalya - Mersin Yolu, D400 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Antalya - Mersin Yolu, D400 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Antalya-Mersin yolu, D400 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Antalya-Mersin yolu, D400 nehmen
-Im Kreisverkehr Ausfahrt 2 auf D400 Antalya-Mersin Yolu nehmen
-Im Kreisverkehr Ausfahrt 2 auf D400 Antalya-Mersin Yolu nehmen
-Rechts halten auf Antalya-Mersin Yolu, D400 →
-Im Kreisverkehr Ausfahrt 2 nehmen
-Im Kreisverkehr Ausfahrt 2 auf D400 Antalya Mersin yolu nehmen
-Im Kreisverkehr Ausfahrt 1 auf D400 nehmen
-Dem Straßenverlauf von D400 folgen
-Im Kreisverkehr Ausfahrt 2 auf D400 nehmen
-Rechts halten auf D400 →
-Rechts halten →
-Rechts halten →
-Im Kreisverkehr Ausfahrt 1 auf Antalya - Burdur Yolu, D650 nehmen
-Im Kreisverkehr Ausfahrt 1 auf Antalya - Burdur Yolu, D650 nehmen
+Im Kreisverkehr Ausfahrt 3 auf A229 nehmen
+Im Kreisverkehr Ausfahrt 1 nehmen
 Links halten ←
-Rechts halten auf D350 →
-Dem Straßenverlauf von D350 folgen
-Dem Straßenverlauf von D350 folgen
-Rechts halten auf D350 →
-Im Kreisverkehr Ausfahrt 2 auf D350 nehmen
-Im Kreisverkehr Ausfahrt 1 auf D350 nehmen
-Dem Straßenverlauf von D350 folgen
-Im Kreisverkehr Ausfahrt 2 auf D350 nehmen
-Rechts abbiegen →
-Rechts abbiegen auf Antalya - Korkuteli Yolu, D350 →
-Im Kreisverkehr Ausfahrt 2 auf Kargalık Fethiye Bulvarı, D350 nehmen
-Rechts halten auf Korkuteli - Çavdır Yolu, D585 →
-Rechts halten →
-Rechts halten auf Denizli - Tavas Yolu, D330 →
-Im Kreisverkehr Ausfahrt 2 auf Kale - Tavas Yolu, D330 nehmen
-Im Kreisverkehr Ausfahrt 1 auf Kale - Tavas Yolu, D330 nehmen
-Im Kreisverkehr Ausfahrt 1 auf Muğla - Kale Yolu, D330 nehmen
-Rechts halten auf Muğla - Kale Yolu, D330 →
-Im Kreisverkehr Ausfahrt 1 auf Muğla - Kale Yolu, D330 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Muğla - Kale Yolu, D330 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Muğla - Kale Yolu, D330 nehmen
-Im Kreisverkehr Ausfahrt 2 nehmen
-Im Kreisverkehr Ausfahrt 3 auf Aydın - Muğla Yolu, D550 nehmen
-Im Kreisverkehr Ausfahrt 1 auf Aydın Muğla Yolu, D550 nehmen
-Dem Straßenverlauf von Atatürk Bulvarı, D550 folgen
-Rechts halten →
-Im Kreisverkehr Ausfahrt 3 auf Muğla-Bodrum Yolu, D330 nehmen
-Rechts halten auf İnönü Bulvarı, D330 →
-Im Kreisverkehr Ausfahrt 2 auf İnönü Bulvarı, D330 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Yatağan - Milas Yolu, D330 nehmen
-Im Kreisverkehr Ausfahrt 2 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Milas - Bodrum Yolu, D330 nehmen
-Im Kreisverkehr Ausfahrt 2 auf Milas - Bodrum Yolu, D330 nehmen
-Scharf links abbiegen auf Cevat Şakir Caddesi ←
-Links abbiegen auf Menekşe Sokak ←
-Scharf links abbiegen auf Bodrum - Datça ←
-Scharf links abbiegen auf Bodrum - Kos ←
-Rechts abbiegen auf ΑΒΕΡΩΦ ΓΕΩΡΓΙΟΥ →
-Links abbiegen auf ΑΛΙΚΑΡΝΑΣΟΥ ←
-Links abbiegen auf Κανάρη ←
-Im Kreisverkehr Ausfahrt 1 auf ΑΚΤΗ ΚΟΥΝΤΟΥΡΙΩΤΗ nehmen
-Rechts abbiegen auf Μεγάλου Αλεξανδρου →
-Rechts abbiegen →
-Rechts abbiegen auf ΖΑΡΑΦΤΟΥ →
-Im Kreisverkehr Ausfahrt 1 auf Κως - Κέφαλος nehmen
-Dem Straßenverlauf von Επαρχιακή Οδός Κώ-Κέφαλου folgen
-Rechts halten auf Επαρχιακή Οδός Κώ-Κέφαλου →
-Rechts abbiegen →
-Rechts abbiegen →
-Rechts abbiegen →
-Rechts abbiegen →
-Rechts halten →
-Links halten auf Κάλυμνος - Μαστιχάρι ←
-Links abbiegen ←
-Rechts abbiegen →
-Rechts halten →
-Rechts abbiegen →
-Rechts abbiegen →
-Links abbiegen ←
-Links abbiegen auf Πάνορμος - Κάλυμνος ←
-Rechts abbiegen →
-Leicht links abbiegen ←
-Scharf links abbiegen ←
-Rechts halten →
-Links abbiegen ←
+Links halten auf M20 ←
+Links abbiegen auf M20 ←
 Links halten ←
+Rechts halten auf FlexiPlus →
+Dem Straßenverlauf von Boulevard d'Erlanger folgen
+Links halten auf Boulevard d'Erlanger ←
+Links halten ←
+Links halten ←
+Rechts halten →
+Rechts halten →
 Links abbiegen ←
+Rechts halten →
+Rechts halten auf Eurotunnel Shuttle →
+Rechts halten →
 Rechts abbiegen →
+Rechts halten auf Boulevard de la Côte d'Opale →
+Im Kreisverkehr Ausfahrt 1 auf Boulevard de l'Europe nehmen
+Links halten auf Giratoire de l'Europe ←
+Rechts halten auf D 304 →
+Im Kreisverkehr Ausfahrt 1 nehmen
+Rechts halten auf E17 →
+Dem Straßenverlauf von E17 folgen
+Rechts halten auf E17 →
+Rechts halten →
+Rechts halten auf E34 →
+Rechts halten auf A67 →
+Links halten auf A 40 ←
+Rechts halten →
+Links halten ←
+Rechts halten auf A 2 →
+Rechts halten →
+Dem Straßenverlauf von AVUS folgen
+Rechts halten →
+Links halten ←
+Links abbiegen auf Tempelhofer Damm, B 96 ←
+Rechts abbiegen auf Blücherstraße →
+Links abbiegen auf Zossener Straße ←
+Dem Straßenverlauf von Zossener Brücke folgen
+Links abbiegen auf Rudi-Dutschke-Straße ←
 Ziel erreicht
