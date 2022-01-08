@@ -16,6 +16,8 @@ namespace Ride
             if(string.IsNullOrEmpty(tempFromLoc))
             {
                 Console.WriteLine("You entered an invalid value.");
+                Console.WriteLine("Press enter to exit...");
+                Console.ReadKey();
                 Environment.Exit(1);
             }
 
@@ -28,6 +30,8 @@ namespace Ride
             if (string.IsNullOrEmpty(tempToLoc))
             {
                 Console.WriteLine("You entered an invalid value.");
+                Console.WriteLine("Press enter to exit...");
+                Console.ReadKey();
                 Environment.Exit(1);
             }
 
@@ -43,6 +47,8 @@ namespace Ride
             {
                 Console.WriteLine("An error occured");
                 Console.WriteLine(e.Message);
+                Console.WriteLine("Press enter to exit...");
+                Console.ReadKey();
                 Environment.Exit(1);
             }
 
@@ -54,10 +60,14 @@ namespace Ride
             {
                 Console.WriteLine("An error occured.");
                 Console.WriteLine(e.Message);
+                Console.WriteLine("Press enter to exit...");
+                Console.ReadKey();
                 Environment.Exit(1);
             }
 
             Console.WriteLine("########## Thank you for using this program ##########");
+            Console.WriteLine("Press enter to exit...");
+            Console.ReadKey();
         }
 
         static void WriteFile(List<string> instructions)

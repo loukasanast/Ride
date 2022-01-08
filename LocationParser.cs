@@ -24,6 +24,8 @@ namespace Ride
             {
                 Console.WriteLine("An error occured.");
                 Console.WriteLine(e.Message);
+                Console.WriteLine("Press enter to exit...");
+                Console.ReadKey();
                 Environment.Exit(1);
             }
 
