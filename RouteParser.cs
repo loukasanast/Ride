@@ -23,11 +23,7 @@ namespace Ride
             }
             catch (Exception e)
             {
-                Console.WriteLine("An error occured.");
-                Console.WriteLine(e.Message);
-                Console.WriteLine("Press enter to exit...");
-                Console.ReadKey();
-                Environment.Exit(1);
+                ErrorHandler.HandleError(e.Message);
             }
 
             return result;

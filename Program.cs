@@ -15,7 +15,7 @@ namespace Ride
 
             if(string.IsNullOrEmpty(tempFromLoc))
             {
-                HandleInvalidInput();
+                ErrorHandler.HandleInvalidInput();
             }
 
             Location fromLoc = new LocationParser().ParseLocation(tempFromLoc);
@@ -26,7 +26,7 @@ namespace Ride
 
             if (string.IsNullOrEmpty(tempToLoc))
             {
-                HandleInvalidInput();
+                ErrorHandler.HandleInvalidInput();
             }
 
             Location toLoc = new LocationParser().ParseLocation(tempToLoc);
@@ -39,7 +39,7 @@ namespace Ride
             }
             catch(IOException e)
             {
-                HandleError(e.Message);
+                ErrorHandler.HandleError(e.Message);
             }
 
             try
@@ -48,7 +48,7 @@ namespace Ride
             }
             catch (Exception e)
             {
-                HandleError(e.Message);
+                ErrorHandler.HandleError(e.Message);
             }
 
             Console.WriteLine("########## Thank you for using this program ##########");
@@ -76,8 +76,11 @@ namespace Ride
                 }
             }
         }
+    }
 
-        static void HandleError(string message)
+    class ErrorHandler
+    {
+        public static void HandleError(string message)
         {
             Console.WriteLine("An error occured");
             Console.WriteLine(message);
@@ -86,7 +89,7 @@ namespace Ride
             Environment.Exit(1);
         }
 
-        static void HandleInvalidInput()
+        public static void HandleInvalidInput()
         {
             Console.WriteLine("You entered an invalid value.");
             Console.WriteLine("Press enter to exit...");
