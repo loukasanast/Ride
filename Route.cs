@@ -1,12 +1,15 @@
 ﻿using System.Collections.Generic;
 
-class Route
+namespace Ride
 {
-    public string Name { get; set; }
-    public List<string> Instructions { get; set; }
-
-    public Route(string name)
+    class Route
     {
-        Name = name;
+        public string Name { get; set; }
+        public List<string> Instructions { get; set; }
+
+        public Route(string name)
+        {
+            Name = name;
+        }
     }
 }

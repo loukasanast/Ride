@@ -1,11 +1,14 @@
-﻿class Location
+﻿namespace Ride
 {
-    public string Name { get; set; }
-    public decimal Lat { get; set; }
-    public decimal Lng { get; set; }
-
-    public Location(string name)
+    class Location
     {
-        Name = name;
+        public string Name { get; set; }
+        public decimal Lat { get; set; }
+        public decimal Lng { get; set; }
+
+        public Location(string name)
+        {
+            Name = name;
+        }
     }
 }
