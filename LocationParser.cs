@@ -29,14 +29,8 @@ namespace Ride
             return result;
         }
 
-        public decimal ParseLat(string lat)
-        {
-            return Decimal.Parse(lat, NumberStyles.Float, CultureInfo.InvariantCulture);
-        }
+        public decimal ParseLat(string lat) => Decimal.Parse(lat, NumberStyles.Float, CultureInfo.InvariantCulture);
 
-        public decimal ParseLng(string lng)
-        {
-            return Decimal.Parse(lng, NumberStyles.Float, CultureInfo.InvariantCulture);
-        }
+        public decimal ParseLng(string lng) => Decimal.Parse(lng, NumberStyles.Float, CultureInfo.InvariantCulture);
     }
 }
